@@ -1,2 +1,2 @@
-http://uaservice.com.ua/ \n
-Укрінтеравтосервіс devVersion
+http://uaservice.com.ua/ <br />
+Укрінтеравтосервіс devVersion <br />
