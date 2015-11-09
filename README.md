@@ -1,2 +1,2 @@
 http://uaservice.com.ua/ <br />
-Укрінтеравтосервіс <code>devVersion</code>
+Укрінтеравтосервіс <code>development version</code>
